@@ -9,6 +9,7 @@ This repository contains my solutions to various DSA problems.
 | ------- |
 | [0079-word-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0079-word-search) |
 | [0704-binary-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0860-lemonade-change) |
 | [2109-adding-spaces-to-a-string](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 ## Binary Search
 |  |
@@ -39,4 +40,8 @@ This repository contains my solutions to various DSA problems.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0079-word-search) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
