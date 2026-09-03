@@ -10,6 +10,7 @@ This repository contains my solutions to various DSA problems.
 | [0045-jump-game-ii](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0079-word-search) |
+| [0238-product-of-array-except-self](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0860-lemonade-change) |
 | [2109-adding-spaces-to-a-string](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
@@ -53,4 +54,8 @@ This repository contains my solutions to various DSA problems.
 | ------- |
 | [0045-jump-game-ii](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0055-jump-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
