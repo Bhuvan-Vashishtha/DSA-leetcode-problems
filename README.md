@@ -10,6 +10,7 @@ This repository contains my solutions to various DSA problems.
 | [0045-jump-game-ii](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0860-lemonade-change) |
@@ -54,6 +55,7 @@ This repository contains my solutions to various DSA problems.
 | ------- |
 | [0045-jump-game-ii](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
 |  |
 | ------- |
