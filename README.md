@@ -7,6 +7,7 @@ This repository contains my solutions to various DSA problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0079-word-search) |
@@ -60,4 +61,8 @@ This repository contains my solutions to various DSA problems.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
