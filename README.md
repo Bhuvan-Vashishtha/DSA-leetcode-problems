@@ -75,5 +75,6 @@ This repository contains my solutions to various DSA problems.
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
