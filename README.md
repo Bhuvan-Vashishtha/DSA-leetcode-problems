@@ -71,4 +71,8 @@ This repository contains my solutions to various DSA problems.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0053-maximum-subarray) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
