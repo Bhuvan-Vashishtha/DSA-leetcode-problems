@@ -42,6 +42,7 @@ This repository contains my solutions to various DSA problems.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0112-path-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -81,4 +82,16 @@ This repository contains my solutions to various DSA problems.
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
