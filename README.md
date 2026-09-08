@@ -18,6 +18,7 @@ This repository contains my solutions to various DSA problems.
 | [0704-binary-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0860-lemonade-change) |
 | [2109-adding-spaces-to-a-string](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@ This repository contains my solutions to various DSA problems.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0079-word-search) |
+| [2965-find-missing-and-repeated-values](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +72,7 @@ This repository contains my solutions to various DSA problems.
 | ------- |
 | [0001-two-sum](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,4 +112,8 @@ This repository contains my solutions to various DSA problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
