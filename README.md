@@ -14,6 +14,7 @@ This repository contains my solutions to various DSA problems.
 | [0079-word-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0704-binary-search) |
@@ -119,4 +120,8 @@ This repository contains my solutions to various DSA problems.
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
