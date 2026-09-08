@@ -12,6 +12,7 @@ This repository contains my solutions to various DSA problems.
 | [0053-maximum-subarray](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0238-product-of-array-except-self) |
@@ -26,6 +27,7 @@ This repository contains my solutions to various DSA problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 ## String
 |  |
@@ -103,6 +105,7 @@ This repository contains my solutions to various DSA problems.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0169-majority-element) |
 ## Counting
 |  |
