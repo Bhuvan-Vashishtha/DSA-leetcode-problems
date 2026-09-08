@@ -3,20 +3,18 @@ class Solution {
         int n = grid.length;
         int[] arr = new int[2];
         int count = 0;
-        HashSet<Integer> set = new HashSet<>();
+        int[] hash = new int[n*n+1];
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                count++;
-                if(set.contains(grid[i][j])){
-                    arr[0] = grid[i][j];
-                }
-                else{
-                    set.add(grid[i][j]);
+                int val = grid[i][j];
+                hash[val]++;
+                if(hash[val] > 1){
+                    arr[0] = val;
                 }
             }
         }
-        for(int i=1;i<=count;i++){
-            if(!set.contains(i)){
+        for(int i=1;i<=n*n;i++){
+            if(hash[i] == 0){
                 arr[1] = i;
                 break;
             }
