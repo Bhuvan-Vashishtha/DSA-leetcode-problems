@@ -16,6 +16,7 @@ This repository contains my solutions to various DSA problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0860-lemonade-change) |
@@ -83,6 +84,7 @@ This repository contains my solutions to various DSA problems.
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Database
 |  |
 | ------- |
@@ -110,6 +112,7 @@ This repository contains my solutions to various DSA problems.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -126,4 +129,12 @@ This repository contains my solutions to various DSA problems.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0136-single-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
