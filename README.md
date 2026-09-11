@@ -35,6 +35,7 @@ This repository contains my solutions to various DSA problems.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0079-word-search) |
 | [0917-reverse-only-letters](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0917-reverse-only-letters) |
 | [2109-adding-spaces-to-a-string](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
@@ -77,6 +78,7 @@ This repository contains my solutions to various DSA problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -137,4 +139,8 @@ This repository contains my solutions to various DSA problems.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
