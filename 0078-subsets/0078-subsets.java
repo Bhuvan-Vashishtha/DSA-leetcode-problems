@@ -5,13 +5,13 @@ class Solution {
         return result;
     }
     static void solve(int[] nums, int idx, List<Integer> ans, List<List<Integer>> result){
-        if(idx == nums.length){
+        
             result.add(new ArrayList<>(ans));
-            return;
+            
+        for(int i=idx;i<nums.length;i++){
+            ans.add(nums[i]);
+            solve(nums, i+1, ans, result);
+            ans.remove(ans.size()-1);
         }
-        ans.add(nums[idx]);
-        solve(nums, idx+1, ans, result);
-        ans.remove(ans.size()-1);
-        solve(nums, idx+1, ans, result);
     }
 }
