@@ -20,12 +20,14 @@ This repository contains my solutions to various DSA problems.
 | [0238-product-of-array-except-self](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0860-lemonade-change) |
+| [1004-max-consecutive-ones-iii](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2109-adding-spaces-to-a-string](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +78,7 @@ This repository contains my solutions to various DSA problems.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +158,7 @@ This repository contains my solutions to various DSA problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Longest Common Subsequence
 |  |
 | ------- |
