@@ -11,6 +11,7 @@ This repository contains my solutions to various DSA problems.
 | [0045-jump-game-ii](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -49,6 +50,7 @@ This repository contains my solutions to various DSA problems.
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
@@ -145,6 +147,7 @@ This repository contains my solutions to various DSA problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0136-single-number) |
 ## Heap (Priority Queue)
 |  |
