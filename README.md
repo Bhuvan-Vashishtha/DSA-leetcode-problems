@@ -50,6 +50,7 @@ This repository contains my solutions to various DSA problems.
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0079-word-search) |
 ## Depth-First Search
