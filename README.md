@@ -58,6 +58,7 @@ This repository contains my solutions to various DSA problems.
 | ------- |
 | [0079-word-search](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 ## Matrix
 |  |
 | ------- |
@@ -126,6 +127,7 @@ This repository contains my solutions to various DSA problems.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -133,6 +135,7 @@ This repository contains my solutions to various DSA problems.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
@@ -140,6 +143,7 @@ This repository contains my solutions to various DSA problems.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Bhuvan-Vashishtha/DSA-leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 ## Sorting
 |  |
 | ------- |
