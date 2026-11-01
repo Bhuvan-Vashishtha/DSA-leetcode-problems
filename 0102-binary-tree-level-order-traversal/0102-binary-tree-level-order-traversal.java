@@ -22,19 +22,18 @@ class Solution {
         nodes.add(root);
         nodes.add(null);
         while(!nodes.isEmpty()){
-            if(nodes.peek() == null){
+            TreeNode curr = nodes.poll();
+            if(curr == null){
                 result.add(new ArrayList<>(ans));
                 ans.clear();
-                nodes.poll();
                 if(!nodes.isEmpty()){
                 nodes.offer(null);
                 }
             }
             else{
-                if(nodes.peek().left != null) nodes.offer(nodes.peek().left);
-                if(nodes.peek().right != null) nodes.offer(nodes.peek().right);
-                ans.add(nodes.peek().val);
-                nodes.poll();
+                if(curr.left != null) nodes.offer(curr.left);
+                if(curr.right != null) nodes.offer(curr.right);
+                ans.add(curr.val);
             }
         }
         return result;
